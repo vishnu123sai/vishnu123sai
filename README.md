@@ -19,12 +19,12 @@
   </ul>
 </details>
 
-
+<br><br>
 <h3>The Questions You May Have 😕</h3>
 <details>
   <summary>Who are you? 👨</summary>
   <pre>
-  A passionate individual who always thrive to work on handling and creating resources for applications in cloud based systems. Automating Routine tasks<br>
+  A passionate individual who always thrive to work on handling and creating resources for applications in cloud based systems.<br> Automating Routine tasks<br>
   My name describes my qualities,
   V: Vision
   I: Interested to Learn
