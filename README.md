@@ -3,10 +3,10 @@
 <h1>Hi Traveller, I am Vishnuvardhan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img align='right' src="https://github.com/vishnu123sai/vishnu123sai/blob/master/vishnuvardhan_nayakam.jpg" width="230" />
 
-<a href="https://www.linkedin.com/in/nayakamvishnuvardhan"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
-<a href="https://github.com/vishnu123sai"><img src="https://github.com/vishnu123sai/vishnu123sai/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="mailto:vishnu123sai@gmail.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
-<a href="https://www.instagram.com/nayakam_vishnu"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/nayakamvishnuvardhan"><img src="https://github.com/vishnu123sai/vishnu123sai/blob/master/linkedin.png" width="40" /></a>
+<a href="https://github.com/vishnu123sai"><img src="https://github.com/vishnu123sai/vishnu123sai/blob/master/github-logo.png" width="40" /></a>
+<a href="mailto:vishnu123sai@gmail.com"><img src="https://github.com/vishnu123sai/vishnu123sai/blob/master/google-plus.png" width="40" /></a>
+<a href="https://www.instagram.com/nayakam_vishnu"><img src="https://github.com/vishnu123sai/vishnu123sai/blob/master/instagram.png" width="40" /></a>
 
 <h3>What I do? 👨‍💻</h3>
 <details>
