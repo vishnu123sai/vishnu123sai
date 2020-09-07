@@ -36,4 +36,4 @@
 </details>
 
 
-[![Vishnuvardhan's Github Stats](https://github-readme-stats.vercel.app/api?username=vishnu123sai&show_icons=true&count_private=true)](https://github.com/ashutosh1919/github-readme-stats)
+[![Vishnuvardhan's Github Stats](https://github-readme-stats.vercel.app/api?username=vishnu123sai&show_icons=true&count_private=true)]
